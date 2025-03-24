@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ssk-wh&show_icons=true&theme=gotham" alt="ssk-wh" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ssk-wh&show_icons=true" alt="ssk-wh" />
